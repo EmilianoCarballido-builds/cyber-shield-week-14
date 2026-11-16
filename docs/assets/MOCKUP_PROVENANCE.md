@@ -1,0 +1,2 @@
+# Mockup provenance
+Generated with built-in image_gen before Week 14 code on 2026-11-15. Original PNG retained locally; JPEG derivative for repository size. Prompt: Spanish Cyber Shield pricing UI, cream/forest green, two business segments, free 0 / conditional 299 monthly / hypothetical 599 setup, revenue 100 x 10% x 299, saved scenario control, assumptions and restore pending. Concept only: depicted email support and PDF buttons are not promises; implemented packet scope governs. No second generation.

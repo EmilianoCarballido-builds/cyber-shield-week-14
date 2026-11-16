@@ -11,7 +11,7 @@ Mexican small-business owners without dedicated security staff can read free gui
 Free guide MXN 0: essential educational plan and simulator. Conditional pilot MXN 299/month per business: bounded monthly review/follow-through; proposed, unavailable for purchase in this demo. One-time setup MXN 599 is an unvalidated fallback hypothesis, no automatic switch or checkout. Licenses, backup storage, incident response, SOC, monitoring and protection guarantees excluded. Ten-business trial; measure onboarding, acquisition, review, corrections, exceptions, support and actual paid renewal. Target support <=15 minutes per account/month. Require positive fully costed contribution and feasible capacity. Pause or narrow trial if witnessed restore is missing, privacy/protection fails, or economics fail. Switch to one-time setup if repeat value or renewal/support thresholds fail. Three genuine paid commitments is a test threshold, never proof of recurring demand.
 
 ## Image-generated mockup
-![AI-generated pricing design concept](assets/pricing-mockup.png)
+![AI-generated pricing design concept](assets/pricing-mockup.jpg)
 One built-in image-generation call requested before code; provenance saved alongside image. Concept is not a screenshot or observed outcome.
 
 ## Feature flow
