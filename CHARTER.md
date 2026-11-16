@@ -1,0 +1,6 @@
+# Cyber Shield MX
+We help Mexican small-business owners without security staff turn free continuity guidance into a bounded routine with a responsible person and evidence of follow-through. The free core gives educational priorities and a readable plan; the experimental paid offer is MXN 299 per business per month, conditional on observed recurring value, paid renewal, feasible capacity and positive fully costed contribution. We do not provide active protection, a SOC or guarantees.
+
+In three years, if demand is demonstrated, this becomes an accountable continuity workflow with consent and witnessed restore evidence. Unknowns remain explicit. Expansion follows measured value rather than fear-based selling.
+
+Two-minute venture brief: Owners can already read free guidance; our open question is whether accountable follow-through earns payment. We will test ten businesses, measure all delivery time, witness an authorized actual restore, and keep support at a target <=15 minutes per account per month. Three genuine paid commitments trigger learning, not a claim of validation. If repeat value, renewal or support fails, test one-time setup instead. Today's website is a simulator and educational planner; interview, payment and restore evidence are pending.

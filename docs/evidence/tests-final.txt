@@ -1,0 +1,37 @@
+✔ validates people boundaries and package threshold (1.544084ms)
+✔ rejects missing, extra, malformed and adversarial inputs (0.16525ms)
+✔ money is scenario arithmetic, handles zero income (0.086292ms)
+✔ unknown does not become safe; incident overrides all protections (0.083208ms)
+✔ all 54 control combinations yield exactly three unique priorities (0.876416ms)
+✔ approval is explicit and export stays labeled (0.144083ms)
+✔ no-provider persona gets an actionable first step, incident still wins (0.065291ms)
+✔ pricing displays three tiers, two segment messages and baseline revenue (3.998917ms)
+✔ no save without consent; saved numbers load and delete; malformed input clears stale projection (8.379209ms)
+✔ base revenue, full cost, contribution and initial capacity reconcile (1.007541ms)
+✔ zero and fractional conversion stay finite; no positive margin means no break-even (0.670333ms)
+✔ support and capacity flags expose operational failure; short retention includes setup cost (0.182875ms)
+✔ strict schema rejects blanks, hostile types, overflow, extra keys and bad ranges (0.210209ms)
+✔ saving requires explicit consent, reload revalidates, deletion and cap work (0.835458ms)
+✔ corrupt or inaccessible storage is not silently trusted (0.121667ms)
+✔ deployment headers restrict frames, forms, permissions and content types (2.852167ms)
+✔ memo contribution reconciles with modeled economics; no old package prices remain (2.915333ms)
+✔ event export contains only allowed metadata and reset isolates sessions (3.803208ms)
+✔ cancel/reopen always requires fresh consent (32.56925ms)
+✔ unfinished form values survive navigation and determine correct price (28.1055ms)
+✔ empty numeric field remains invalid after navigation (9.419417ms)
+✔ incident priority and zero-income math render without Infinity (12.315375ms)
+✔ changing scenario updates displayed amount; audit records it (18.628333ms)
+✔ reset clears prior assessment, draft and audit history (19.534292ms)
+✔ persona fixes show cost exclusions and money equivalence, not recovery time (12.465125ms)
+✔ local AI requires consent and unsupported GPU preserves simulated output (13.3675ms)
+✔ feedback and event export controls are reachable after a real plan (11.714167ms)
+✔ feedback cannot be counted twice for a single plan (10.4135ms)
+✔ readable save button is visible with the result heading (9.282333ms)
+ℹ tests 29
+ℹ suites 0
+ℹ pass 29
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 4951.662

@@ -8,8 +8,13 @@ Story: owner compares offers -> inputs hypothetical numbers -> deterministic pro
 1. First local integration reused a two-package cost table after consolidating to the 299 pilot; plan navigation threw reading PACKAGES[1]. Removed obsolete table and linked to complete Week 14 economics; planner regression passes. Existing package/price tests updated to deliberate 1–25/299 behavior.
 2. First deployed memo stated total contribution 503.67 although simulator produced 503.73. Corrected memo and added reconciliation regression before release 2. Source before/after is in commits, not a fabricated user session.
 
+3. Final live planner walkthrough exposed inherited “total with taxes” beside the new unconfirmed-tax offer. Changed to before-tax hypothesis / commercial total pending and added regression. This concrete consistency fix required release 3; no extra feature was added.
+
 ## Browser, release 1
 Public /pricing rendered three tiers and both segments. Default 100 × 10% × 299 = 2,990 monthly and 35,880 annually. Save without consent showed authorization message and no record. Explicit save then browser reload retained scenario 1. Editing users to 200 showed 5,980 / 71,760. Load restored 100 / 2,990. Delete then reload removed record. Screenshot evidence/live-simulator.png. /about rendered the honest 2.01:1 example and pending evidence.
 
 ## Security and scope
 HTTP 200 via authenticated Vercel fetch; live response included CSP, nosniff, no-referrer, DENY, disabled camera/mic/geolocation, HSTS. Local listener prohibited by environment; live browser used. No registry vulnerability audit completed. Optional AI model download not repeated to save bandwidth/credits; inherited no-WebGPU fallback regression passed. No claim of real protection, real payer interview, actual backup restore or renewal. Final live verification recorded in SUBMISSION.md.
+
+## Final release verification
+Release 3 READY at source 1da6e247. Browser /plan loaded fictional example and generated the three free priorities, 299 pilot and corrected before-tax disclosure. /pricing still rendered all tiers and default 2,990 / 35,880 projection. Final HTTP /plan 200 with CSP, nosniff, DENY and HSTS. PDF memo verified exactly one A4 page; packet/transcript/handoff rendered and visually checked.

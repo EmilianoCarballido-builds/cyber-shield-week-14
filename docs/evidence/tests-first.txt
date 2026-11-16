@@ -1,0 +1,35 @@
+✔ validates people boundaries and package threshold (1.351666ms)
+✔ rejects missing, extra, malformed and adversarial inputs (0.346917ms)
+✔ money is scenario arithmetic, handles zero income (0.1105ms)
+✔ unknown does not become safe; incident overrides all protections (0.144417ms)
+✔ all 54 control combinations yield exactly three unique priorities (1.135583ms)
+✔ approval is explicit and export stays labeled (0.274791ms)
+✔ no-provider persona gets an actionable first step, incident still wins (0.171625ms)
+✔ pricing displays three tiers, two segment messages and baseline revenue (3.728542ms)
+✔ no save without consent; saved numbers load and delete; malformed input clears stale projection (7.944041ms)
+✔ base revenue, full cost, contribution and initial capacity reconcile (0.447708ms)
+✔ zero and fractional conversion stay finite; no positive margin means no break-even (0.581334ms)
+✔ support and capacity flags expose operational failure; short retention includes setup cost (0.133875ms)
+✔ strict schema rejects blanks, hostile types, overflow, extra keys and bad ranges (0.228167ms)
+✔ saving requires explicit consent, reload revalidates, deletion and cap work (0.928291ms)
+✔ corrupt or inaccessible storage is not silently trusted (0.110166ms)
+✔ event export contains only allowed metadata and reset isolates sessions (3.4555ms)
+✔ cancel/reopen always requires fresh consent (31.056458ms)
+✔ unfinished form values survive navigation and determine correct price (28.780416ms)
+✔ empty numeric field remains invalid after navigation (9.438709ms)
+✔ incident priority and zero-income math render without Infinity (12.357416ms)
+✔ changing scenario updates displayed amount; audit records it (18.511541ms)
+✔ reset clears prior assessment, draft and audit history (18.852208ms)
+✔ persona fixes show cost exclusions and money equivalence, not recovery time (12.374334ms)
+✔ local AI requires consent and unsupported GPU preserves simulated output (12.94575ms)
+✔ feedback and event export controls are reachable after a real plan (11.355584ms)
+✔ feedback cannot be counted twice for a single plan (10.149584ms)
+✔ readable save button is visible with the result heading (9.390042ms)
+ℹ tests 27
+ℹ suites 0
+ℹ pass 27
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 4927.180875
